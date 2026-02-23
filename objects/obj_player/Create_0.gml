@@ -5,3 +5,5 @@ spr_walk_down = spr_player_frente;
 spr_walk_up   = spr_player_costas;
 
 sprite_index = spr_idle;
+
+update_world();
