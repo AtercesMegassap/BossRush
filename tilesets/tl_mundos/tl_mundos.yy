@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"tl_mundos",
-  "out_columns":10,
+  "out_columns":11,
   "out_tilehborder":0,
   "out_tilevborder":0,
   "parent":{
@@ -34,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":96,
+  "tile_count":126,
 }

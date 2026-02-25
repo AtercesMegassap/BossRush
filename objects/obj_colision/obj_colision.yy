@@ -6,8 +6,8 @@
   "name":"obj_colision",
   "overriddenProperties":[],
   "parent":{
-    "name":"level",
-    "path":"folders/Objects/level.yy",
+    "name":"Level",
+    "path":"folders/Objects/Level.yy",
   },
   "parentObjectId":null,
   "persistent":false,

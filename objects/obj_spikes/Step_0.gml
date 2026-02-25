@@ -1,8 +1,20 @@
-if(global.world_current == global.world1)
-{
-	image_index = 0;
-}
-else if(global.world_current == global.world2)
-{
-	image_index = 3;
+switch (state) {
+
+    case SpikeState.APPEARING:
+        if (image_index <= 0) {
+            image_index = 0;
+            image_speed = 0;
+            state = SpikeState.ACTIVE;
+            active = true;
+        }
+    break;
+
+    case SpikeState.DISAPPEARING:
+        if (image_index >= 3) {
+            image_index = 3;
+            image_speed = 0;
+            state = SpikeState.INACTIVE;
+            active = false;
+        }
+    break;
 }
