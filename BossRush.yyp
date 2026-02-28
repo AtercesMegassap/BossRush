@@ -58,6 +58,7 @@
     {"id":{"name":"spr_boss1_prepering","path":"sprites/spr_boss1_prepering/spr_boss1_prepering.yy",},},
     {"id":{"name":"spr_boss1_recovering","path":"sprites/spr_boss1_recovering/spr_boss1_recovering.yy",},},
     {"id":{"name":"spr_collision","path":"sprites/spr_collision/spr_collision.yy",},},
+    {"id":{"name":"spr_door","path":"sprites/spr_door/spr_door.yy",},},
     {"id":{"name":"spr_elements","path":"sprites/spr_elements/spr_elements.yy",},},
     {"id":{"name":"spr_player_costas","path":"sprites/spr_player_costas/spr_player_costas.yy",},},
     {"id":{"name":"spr_player_dash_Costas","path":"sprites/spr_player_dash_Costas/spr_player_dash_Costas.yy",},},

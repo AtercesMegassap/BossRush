@@ -26,7 +26,7 @@
   ],
   "name":"spr_boss1_idle",
   "nineSlice":null,
-  "origin":7,
+  "origin":9,
   "parent":{
     "name":"Boss1",
     "path":"folders/Sprites/enemies/Boss1.yy",
@@ -88,7 +88,7 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":16,
-    "yorigin":32,
+    "yorigin":22,
   },
   "swatchColours":null,
   "swfPrecision":0.5,

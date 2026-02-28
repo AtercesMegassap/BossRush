@@ -32,3 +32,15 @@ function update_world()
         layer_set_visible(level_world2, true);
     }
 }
+
+
+function elements_set_active(_inst, _active)
+{
+    with (_inst)
+    {
+        if (_active)
+            image_index = irandom_range(0, 3);
+        else
+            image_index = irandom_range(6, 10);
+    }
+}
